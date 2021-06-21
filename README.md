@@ -2,7 +2,8 @@
 
 ## I decided to take a look how [Stiches](https://stitches.dev/), CSS-in-JS library, works. 
 
-#### Very handy library, I appreciate so much write CSS directly in the component.
+#### Very handy library, I appreciate so much write CSS directly in the component. Each component SideBar (List of genres), Button (each genre item), Content (List of movies), MovieCard (each movie card) has your own styles written in your file. 
+
 
 ## Preview
 
